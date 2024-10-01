@@ -4,6 +4,9 @@ Part 2:
 Victor Sumbo 		     PM ST10082741
 Princess Muzanenhamo  ST10041651
 Miguel Almeida        ST10025374
+
+Youtube Link: https://www.youtube.com/watch?v=BEqKzEUYv-Q
+
 Overview
 LingoChat is a real-time messaging application designed to break down language barriers by translating messages instantly between users speaking different languages. The app enables users to communicate smoothly regardless of their preferred language, making interactions between users easier and more accessible.
 This version (Part 2 of the project) includes the core functionalities such as user authentication, profile customization, and chat capabilities. However, the real-time translation feature, intended to translate messages on the go using Microsoft Translation APIs, which is fully functional. 
