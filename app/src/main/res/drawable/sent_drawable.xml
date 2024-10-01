@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#A3FF5D" /> <!-- Light green color for sent messages -->
+
+    <corners
+        android:bottomRightRadius="16dp"
+        android:bottomLeftRadius="16dp"
+        android:topRightRadius="4dp"
+        android:topLeftRadius="16dp" /> <!-- Smaller top-right radius for chat bubble effect -->
+
+    <padding
+        android:left="12dp"
+        android:right="12dp"
+        android:top="8dp"
+        android:bottom="8dp" />
+
+</shape>

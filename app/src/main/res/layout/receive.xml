@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txt_receive_message"
+        android:layout_width="244dp"
+        android:layout_height="45dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/receive_drawable"
+        android:padding="10dp"
+        android:text="@string/this_is_received_message"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txt_receive_time"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/txt_receive_message"
+        android:layout_alignTop="@+id/txt_receive_message"
+        android:layout_alignEnd="@+id/txt_receive_message"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="10dp"
+        android:text="20:13" />
+
+</RelativeLayout>

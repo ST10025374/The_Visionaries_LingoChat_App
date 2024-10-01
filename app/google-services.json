@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033246470108",
+    "project_id": "lingov3-34c47",
+    "storage_bucket": "lingov3-34c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033246470108:android:7d82ef110fff71b7f82919",
+        "android_client_info": {
+          "package_name": "com.example.lingov3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033246470108-b2kg6kc3u4d3gid9rmmtparmcqnu9f44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lingov3",
+            "certificate_hash": "686d870f5614b7bd8d4008a4a8050799fdec0371"
+          }
+        },
+        {
+          "client_id": "1033246470108-ufkit1a042b53rf8t0u2vf540j6rem5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1tfBRD4yI4e_X0oofMERIuPy-nr1iAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033246470108-8fbbr83ikqh26uu67s259cg8tv645gp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
